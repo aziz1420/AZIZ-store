@@ -90,3 +90,18 @@ footer {
   padding: 20px;
   font-size: 14px;
 }
+.whatsapp {
+  background-color: #25D366;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  padding: 10px 15px;
+  margin-top: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.whatsapp:hover {
+  background-color: #1DA851;
+}
